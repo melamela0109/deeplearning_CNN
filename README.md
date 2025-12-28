@@ -20,9 +20,9 @@
 
 ```
 ├── main.py              # 전체 학습 및 평가 코드 (모델 구현, 학습 루프 포함)
-├── cifar10_train.pth    # 학습 데이터 (별도 준비 필요)
-├── cifar10_val.pth      # 검증 데이터 (별도 준비 필요)
-├── cifar10_test.pth     # 테스트 데이터 (별도 준비 필요)
+├── cifar10_train.pth    # 학습 데이터
+├── cifar10_val.pth      # 검증 데이터 
+├── cifar10_test.pth     # 테스트 데이터 
 └── README.md            # 프로젝트 설명 파일
 
 ```
